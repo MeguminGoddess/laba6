@@ -2,3 +2,8 @@
 border:1px solid red;
 width:150px;
 } 
+#blok2{
+	position:relative;
+	left:50px;
+	top:25px;
+} 
